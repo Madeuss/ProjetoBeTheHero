@@ -43,7 +43,7 @@ A ideia do 'Be the Hero' é permitir a conexão entre ONGs ou Instituições nec
 
 **Web**
 
-- Utilização do Axios para consumo da API criada no <a href="#Backend">Backend</a>
+- Utilização do Axios para consumo da API criada no [backend](https://github.com/Madeuss/ProjetoBeTheHero/tree/master/backend)
 - Rotas [React Router](https://reacttraining.com/react-router/web/guides/quick-start)
 - React Hooks
 
@@ -61,9 +61,9 @@ A ideia do 'Be the Hero' é permitir a conexão entre ONGs ou Instituições nec
 - Instale todas as dependências
 - Execute a API dentro do repositório [backend](https://github.com/Madeuss/ProjetoBeTheHero/tree/master/backend) -> *npm start*
 
-**Aplicação Web**: Dentro do repositório [frontend](frontend) -> *npm start*
+**Aplicação Web**: Dentro do repositório [frontend](https://github.com/Madeuss/ProjetoBeTheHero/tree/master/frontend) -> *npm start*
 
-**Aplicação Mobile**: Dentro do repositório [mobile](mobile)
+**Aplicação Mobile**: Dentro do repositório [mobile](https://github.com/Madeuss/ProjetoBeTheHero/tree/master/mobile)
 - Execute *yarn start* 
 - Na página que abrirá, você terá a opção de rodar de aplicação dentro de um emulador ou em seu próprio dispositivo
   
