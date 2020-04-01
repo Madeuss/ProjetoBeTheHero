@@ -59,7 +59,7 @@ A ideia do 'Be the Hero' é permitir a conexão entre ONGs ou Instituições nec
 
 - Clone o repositório
 - Instale todas as dependências
-- Execute a API dentro do repositório [backend](backend) -> *npm start*
+- Execute a API dentro do repositório [backend]('./backend/') -> *npm start*
 
 **Aplicação Web**: Dentro do repositório [frontend](frontend) -> *npm start*
 
@@ -72,7 +72,7 @@ A ideia do 'Be the Hero' é permitir a conexão entre ONGs ou Instituições nec
  **Dispositivo** : Escaneie o QR Code dentro da [plataforma Expo](https://play.google.com/store/apps/details?id=host.exp.exponent&hl=pt_BR) de seu aparelho
 
  <hr />
-## :memo: Licença
+##:memo: Licença
 
 Esse projeto está sob a licença MIT.
 
