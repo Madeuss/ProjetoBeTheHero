@@ -59,7 +59,7 @@ A ideia do 'Be the Hero' é permitir a conexão entre ONGs ou Instituições nec
 
 - Clone o repositório
 - Instale todas as dependências
-- Execute a API dentro do repositório [backend]('./backend/') -> *npm start*
+- Execute a API dentro do repositório [backend](https://github.com/Madeuss/ProjetoBeTheHero/tree/master/backend) -> *npm start*
 
 **Aplicação Web**: Dentro do repositório [frontend](frontend) -> *npm start*
 
