@@ -75,6 +75,6 @@ A ideia do 'Be the Hero' é permitir a conexão entre ONGs ou Instituições nec
 
 ## 📝Licença
 
-Esse projeto está sob a licença [MIT](./LICENSE) &copy; [Rocketseat](https://rocketseat.com.br/)
+Esse projeto está sob a licença [MIT](./LICENSE.md) &copy; [Rocketseat](https://rocketseat.com.br/)
 
 
