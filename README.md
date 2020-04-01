@@ -72,7 +72,8 @@ A ideia do 'Be the Hero' é permitir a conexão entre ONGs ou Instituições nec
  **Dispositivo** : Escaneie o QR Code dentro da [plataforma Expo](https://play.google.com/store/apps/details?id=host.exp.exponent&hl=pt_BR) de seu aparelho
 
  <hr />
-##:memo: Licença
+
+## 📝Licença
 
 Esse projeto está sob a licença MIT.
 
